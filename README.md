@@ -64,4 +64,4 @@ Style guidelines: PEP8 pycode style checks
 # Authors
 
 * ABDULKAREEM ABDULQUDDUS OLAYINKA | 'aabdulqudduss@gmail.com'
-* MAFE OLUWAKEMI | 'kemimafe11@gmail.com'
+* Cynthia Munyasya | 'munyasyacynthia@gmial.com'
